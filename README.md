@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Sara%20Kemily&fontSize=70&color=0:ffc4c4,100:c3979b&stroke=c3979b" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Sara%20Kemily&fontSize=50&color=0:ffc4c4,100:c3979b&stroke=c3979b" />
 <img align="right"  src="https://i.picasion.com/pic92/c15dfa9f259927541b9e9d6235cba1a0.gif" width="300" height="300" border="0" alt="https://picasion.com/" />
  
 - 🔭 I’m currently working as a Software Engineer 
