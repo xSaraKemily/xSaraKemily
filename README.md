@@ -37,7 +37,14 @@
 -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xSaraKemily&bg_color=0d1117&color=ffc4c4&line=906f72&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
+ <div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{xSaraKemily}/count.svg" /></p> 
+ <br>
+</div>
+
 <!--
 **xSaraKemily/xSaraKemily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
