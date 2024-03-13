@@ -28,15 +28,11 @@
 </div>
 
 
-<!--
-<div  style="display: inline_block" align="right"> 
-  <a href="https://www.linkedin.com/in/sara-kemily-fl%C3%B4res-ventura-415895174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/sarakemilyzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sarakemili@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> 
--->
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xSaraKemily&bg_color=0d1117&color=ffc4c4&line=906f72&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!--
+**xSaraKemily/xSaraKemily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  <div align="center">
   <br>
@@ -44,9 +40,6 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{xSaraKemily}/count.svg" /></p> 
  <br>
 </div>
-
-<!--
-**xSaraKemily/xSaraKemily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
