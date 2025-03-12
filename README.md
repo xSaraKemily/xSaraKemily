@@ -2,7 +2,7 @@
 <img align="right"  src="https://i.picasion.com/pic92/c15dfa9f259927541b9e9d6235cba1a0.gif" width="300" height="300" border="0" alt="https://picasion.com/" />
  
 - 🔭 I’m currently working as a Software Engineer 
-- 🌱 I’m currently learning Angular 2 </li>
+- 🌱 I’m currently learning Angular 19 </li>
 
 <br>
        
